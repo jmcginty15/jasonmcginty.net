@@ -123,7 +123,7 @@ const FeaturedProjects = ({ featured }) => {
       <StyledH1>Featured Projects</StyledH1>
       {featuredProjects}
       <StyledArchiveContainer>
-        <TextLink label="View More Projects" link="/projects" />
+        <TextLink label="View All Projects" link="/projects" />
       </StyledArchiveContainer>
     </StyledSection>
   );

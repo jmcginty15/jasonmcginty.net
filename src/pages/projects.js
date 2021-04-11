@@ -35,15 +35,22 @@ export const pageQuery = graphql`
   query {
     allMarkdownRemark(
       sort: { order: DESC, fields: frontmatter___date }
-      filter: { fileAbsolutePath: { regex: "/content/projects/" }, frontmatter: { featured: { eq: false } } }
+      filter: { fileAbsolutePath: { regex: "/content/projects/" } }
     ) {
       nodes {
         frontmatter {
-          date(formatString: "D MMMM, YYYY")
+          date(formatString: "MMMM D, YYYY")
           title
           repo_link
           demo_link
           techs
+          cover_image {
+            childImageSharp {
+              fluid(maxWidth: 800) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
         }
         html
       }

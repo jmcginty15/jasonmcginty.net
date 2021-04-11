@@ -31,7 +31,7 @@ const StyledLogo = styled(Logo)`
   height: var(--header-height);
   fill: var(--title-color);
 
-  &:hover path.level-2 {
+  &:hover {
     fill: var(--primary-color);
   }
 `;

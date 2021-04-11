@@ -1,12 +1,12 @@
 module.exports = {
   pathPrefix: '/gatsby-starter-level-2',
   siteMetadata: {
-    title: 'Level 2',
-    titleTemplate: '%s · Level 2',
+    title: 'Jason McGinty',
+    titleTemplate: '%s · Jason McGinty',
     image: '/images/logo.png',
-    author: 'Max Mustermann',
-    description: 'Gatsby starter to quickly setup your portfolio and boost it to the next level.',
-    url: 'https://knochenmark.github.io',
+    author: 'Jason McGinty',
+    description: 'Frontend, backend, and full-stack software development.',
+    url: 'https://jasonmcginty.surge.sh',
     paginationPageSize: 4, // Amount of posts displayed per listing page.
   },
   plugins: [
