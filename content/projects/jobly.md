@@ -1,5 +1,5 @@
 ---
-featured: true
+featured: false
 date: '2020-12-16'
 title: 'Jobly'
 cover_image: './images/jobly.jpg'
