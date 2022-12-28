@@ -5,4 +5,4 @@ cta_label: 'View Documentation'
 cta_link: 'https://github.com/Knochenmark/gatsby-starter-level-2/blob/master/README.md'
 ---
 
-Frontend, backend, and full-stack software development.
+I develop web sites for small businesses.

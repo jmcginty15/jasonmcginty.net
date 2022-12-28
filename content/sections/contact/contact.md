@@ -1,6 +1,6 @@
 ---
 phone: '+1 (785) 213-1247'
-email: 'jason_mcginty@yahoo.com'
+email: 'webdev@jasonmcginty.net'
 address: 'Topeka, KS'
 ---
 

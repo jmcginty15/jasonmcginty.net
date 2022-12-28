@@ -1,5 +1,5 @@
 ---
-featured: true
+featured: false
 date: '2021-05-03'
 title: 'Weather App'
 cover_image: './images/weather-app-scaled.jpg'

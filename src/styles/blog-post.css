@@ -4,3 +4,21 @@
     text-align: center;
     margin: auto;
 }
+
+#submit-button:hover {
+    cursor: pointer;
+    background-color: var(--secondary-color);
+    transition: 0.25s;
+}
+
+.commenter-link {
+    color: white !important;
+}
+
+.commenter-link:hover {
+    color: var(--primary-color) !important;
+}
+
+#none-label {
+    margin-bottom: 3rem;
+}
