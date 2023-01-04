@@ -28,7 +28,7 @@ Deduction, or deductive reasoning, is a process by which a _necessary_ conclusio
 
 > A deduction is a discourse in which, certain things being stated, something other than what is stated follows of necessity from their being so.
 
-— Aristotle, *Prior Analytics* 1.24b19-20
+— Aristotle, *Prior Analytics* 1.24b.19-20
 
 The classic example of a deduction is the following:
 
@@ -42,7 +42,7 @@ If anyone knows where Aristotle explicitly defines induction in the way he does 
 
 > All teaching and intellectual learning come about from already existing knowledge. This is evident if we consider it in every case; for the mathematical sciences are acquired in this fashion, and so is each of the other arts. And similarly too with arguments—both deductive and inductive arguments proceed in this way; for both produce their teaching through what we are already aware of, the former getting their premisses as from men who grasp them, **the latter proving the universal through the particular's being clear.**
 
-— Aristotle, *Posterior Analytics* 1.1.71a1-9
+— Aristotle, *Posterior Analytics* I.1.71a1-9
 
 Notice that the deduction example above started with the universal and proved something about the particular. Premise 1 made a universal, categorical statement about a class (men), premise 2 identified one particular thing (Socrates) as a member of that class, and the conclusion made a statement about the particular thing, made necessary by his membership in the class. The deduction proceeds from universal to particular.
 
